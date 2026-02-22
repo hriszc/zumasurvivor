@@ -1,0 +1,5 @@
+{
+  "name": "Snake Survivor",
+  "description": "A survivor-like game where you stand your ground against a 1000-segment snake. Build powerful synergies to survive.",
+  "requestFramePermissions": []
+}
